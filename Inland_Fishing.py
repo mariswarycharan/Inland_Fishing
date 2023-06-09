@@ -69,13 +69,13 @@ if submit:
       
       
 
-i1,i2 = st.columns(2)          
+# i1,i2 = st.columns(2)          
   
 
   
 # with i1:            
 #     st.subheader("Before augmentation")
-st.image(Image.open(r"images\WhatsApp Image 2023-06-09 at 5.45.21 PM.jpeg"),use_column_width=True)
+# st.image(Image.open(r"images\WhatsApp Image 2023-06-09 at 5.45.21 PM.jpeg"),use_column_width=True)
 #     st.image(Image.open(r"images\WhatsApp Image 2023-06-09 at 5.45.54 PM.jpeg"),use_column_width=True)
     
 # with i2:
